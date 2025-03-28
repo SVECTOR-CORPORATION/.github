@@ -1,6 +1,6 @@
 # SVECTOR
 
-![SVECTOR](https://github.com/user-attachments/assets/7ec62431-7f1a-4961-8da7-a2d3c5a9ed16)
+<!-- ![SVECTOR](https://github.com/user-attachments/assets/7ec62431-7f1a-4961-8da7-a2d3c5a9ed16) -->
 
 ## 🚀 About Us
 SVECTOR is a technology company dedicated to advancing research in Artificial General Intelligence (AGI). Our mission is to build super-intelligent models, develop innovative frameworks, and pioneer new technologies that push the boundaries of AI and computing.
